@@ -1,10 +1,15 @@
-
+import Footer from "./componants/footer/Footer";
+import Header from "./componants/header/Header";
 
 function App() {
   return (
-    <div className="App">
-      <h1>hello world</h1>
-    </div>
+    
+      <div className="layout">
+        <Header/>
+        <main> content </main>
+        <Footer/>
+      </div>
+  
   );
 }
 
