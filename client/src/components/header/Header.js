@@ -1,12 +1,12 @@
 import React from 'react'
-import '../../css/header/header.css'
-
+import { words } from '../../words'
+import './header.scss'
 
 const Header = () => {
     
   return (
     <header>
-        shopping card
+      {words.header}
     </header>
   )
 }

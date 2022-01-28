@@ -1,12 +1,20 @@
-import Footer from "./componants/footer/Footer";
-import Header from "./componants/header/Header";
+import Filter from "./components/filter/Filter";
+import Footer from "./components/footer/Footer";
+import Header from "./components/header/Header";
+import Product from "./components/product/Product";
+import data from  "./data.json"
 
 function App() {
+
+  console.log(data)
   return (
     
       <div className="layout">
         <Header/>
-        <main> content </main>
+        <main> 
+          <Product/>
+          <Filter/>
+        </main>
         <Footer/>
       </div>
   
