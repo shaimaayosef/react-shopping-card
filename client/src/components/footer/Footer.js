@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../css/footer/footer.css'
+import './footer.scss'
 import { words } from '../../words';
 
 
