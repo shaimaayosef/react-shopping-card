@@ -1,0 +1,52 @@
+[
+    {
+        "id":"id1",
+        "title":"book1",
+        "imageUrl":"",
+        "description":"very good book",
+        "price": "10",
+        "size":["S","M"]
+
+
+    },
+
+    {
+        "id":"id2",
+        "title":"book2",
+        "imageUrl":"",
+        "description":" good book",
+        "price": "15",
+        "size":["S","L"]
+
+
+    },
+    {
+        "id":"id3",
+        "title":"book3",
+        "imageUrl":"",
+        "description":"nice book",
+        "price": "5",
+        "size":["S","XL"]
+
+
+    },
+    {
+        "id":"id4",
+        "title":"book4",
+        "imageUrl":"",
+        "description":" exelant book",
+        "price": "100",
+        "size":["S","XS","XL","M"]
+
+
+    },{
+        "id":"id5",
+        "title":"book5",
+        "imageUrl":"",
+        "description":"interesting book",
+        "price": "20",
+        "size":["S","M","L"]
+
+
+    }
+]
