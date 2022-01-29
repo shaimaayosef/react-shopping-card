@@ -4,7 +4,9 @@
         "title":"Eat, grow and impress others",
         "imageUrl":"/images/eat and sleep.jpg",
         "description":"Being a girl with goals with persistence confidence and a bit of lipstick nothing is too hard for youThis book with everything you will find in it motivational and popular ignites in you the enthusiasm to live your life and impress others",
-        "price": "50"
+        "price": "50",
+        "qty" : 1,
+        "bookType": ["pdf","paper","summary","audio"]   
         
     },
 
@@ -13,7 +15,9 @@
         "title":"Outliers",
         "imageUrl":"/images/outliers.jpg",
         "description":" In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of outliers--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?",
-        "price": "120"
+        "price": "120",
+        "qty" : 1,
+        "bookType": ["pdf","audio"]
 
     },
     {
@@ -21,7 +25,9 @@
         "title":"Career Dreams",
         "imageUrl":"/images/career.jpg",
         "description":"In this workbook, you will find an invaluable tool for making your dreams more than dreams. It’ll be there for every job interview, every networking opportunity, every promotion, and any day-to-day situation that might come up. You want the career of a lifetime and we want to help you get it.",
-        "price": "150"
+        "price": "150",
+        "qty" : 1,
+        "bookType": ["paper","summary"]
 
     },
     {
@@ -29,7 +35,9 @@
         "title":"The bower of know",
         "imageUrl":"/images/now.jpg",
         "description":" Now” is a spiritual self-help guide to help us discover our true Being, release our pain and find deep inner peace. When we are intensely present in the Now, we respond from deep consciousness and flow with ease and joy in life.",
-        "price": "100"
+        "price": "100",
+        "qty" : 1,
+        "bookType": ["paper","audio"]
 
     }
     
