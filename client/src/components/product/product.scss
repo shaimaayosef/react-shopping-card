@@ -119,3 +119,32 @@
     transform: translate3d(2px, 0, 0) translateZ(0);
   }
 }
+
+.product-info{
+  img{
+    display: block;
+    width: 40%;
+    margin: 20px auto;
+  }
+  .info-title{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    text-align: center;
+    color:#b81c5d;
+    font-size: 25px;
+    letter-spacing: 0.3px;
+    margin: 5px;
+  }
+  .info-description{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color:#0c0c0c;
+    font-size: 13px;
+    text-align: center;
+  }
+}
+.close{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}

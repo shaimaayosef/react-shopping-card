@@ -1,3 +1,4 @@
+import React , {useState} from "react";
 import Cart from "./components/cart/Cart";
 import Filter from "./components/filter/Filter";
 import Footer from "./components/footer/Footer";
@@ -6,15 +7,15 @@ import Product from "./components/product/Product";
 import data from  "./data.json"
 
 function App() {
-
-  console.log(data)
+  const [products] = useState(data)
+  
   return (
     
       <div className="layout">
         <Header/>
         <main> 
           <div className="product-filter">
-            <Product/>
+            <Product products={products} />
             <Filter/> 
           </div>  
           <Cart/>
