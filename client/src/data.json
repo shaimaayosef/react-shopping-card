@@ -3,7 +3,7 @@
         "id":"id1",
         "title":"Eat, grow and impress others",
         "imageUrl":"/images/eat and sleep.jpg",
-        "description":"Being a girl with goals with persistence confidence and a bit of lipstick nothing is too hard for youThis book with everything you will find in it motivational and popular ignites in you the enthusiasm to live your life and impress others",
+        "description":"Being a girl with goals, with persistence confidence and a bit of lipstick nothing is too hard for you. This book with everything you will find in it motivational and popular ignites in you the enthusiasm to live your life and impress others",
         "price": "50",
         "qty" : 1,
         "bookType": ["pdf","paper","summary","audio"]   
@@ -30,9 +30,10 @@
         "bookType": ["paper","summary"]
 
     },
+
     {
         "id":"id4",
-        "title":"The bower of know",
+        "title":"The bower of now",
         "imageUrl":"/images/now.jpg",
         "description":" Now” is a spiritual self-help guide to help us discover our true Being, release our pain and find deep inner peace. When we are intensely present in the Now, we respond from deep consciousness and flow with ease and joy in life.",
         "price": "100",
